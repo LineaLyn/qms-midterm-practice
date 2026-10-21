@@ -1,0 +1,5 @@
+print("QUEUE MANAGEMENT SYSTEM")
+print("=======================")
+print("1. Get Queue Number")
+print("2. View Queue")
+print("3. Exit")
