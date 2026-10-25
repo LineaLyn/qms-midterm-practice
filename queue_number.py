@@ -3,4 +3,3 @@ def generate_queue_number(number):
 
 
 print("Your queue number is:", generate_queue_number(1))
-# added by Garcia 
